@@ -1,0 +1,14 @@
+.display-medium{
+    display: inherit !important;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+header, footer{
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    width: 95%;
+}
